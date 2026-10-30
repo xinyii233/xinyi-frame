@@ -1,0 +1,21 @@
+# /usr/local/bin/docker-compose -f /docs/dev-ops/environment/environment-docker-compose-2.4.yml up -d
+version: '3.8'
+# docker-compose -f docker-compose-app.yml up -d
+# 镜像名称与 xinyi-frame-app/build.sh 保持一致
+services:
+  xinyi-frame:
+    image: xinyi/xinyi-frame-app:1.0-SNAPSHOT
+    container_name: xinyi-frame
+    restart: on-failure
+    ports:
+      - "8091:8091"
+    environment:
+      - TZ=PRC
+      - SERVER_PORT=8091
+    volumes:
+      - ./log:/data/log
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled-infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled-infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled-trigger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled-trigger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled-types/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled-types/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinyi-frame-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinyi-frame-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinyi-frame-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinyi-frame-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinyi-frame-infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinyi-frame-infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinyi-frame-trigger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinyi-frame-trigger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinyi-frame-types/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xinyi-frame-types/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
